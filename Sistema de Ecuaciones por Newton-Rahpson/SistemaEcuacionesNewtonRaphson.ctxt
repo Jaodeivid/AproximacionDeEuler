@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.target=SistemaEcuacionesNewtonRaphson
+comment0.text=\r\n\ RESOLVER\ EL\ SIGGUIENTE\ SISTEMA\ DE\ ECUACIONES\ POR\ EL\ METODO\ NEWTON-RAPHSON\r\n\ f1\:\=3*x-cos(y*z)-0.5\ \=\ 0;\r\n\ f2\:\=x*x-81*(y+0.1)*81*(y+0.1)+sin(z)+1.06\ \=\ 0\r\n\ f3\:\=exp(-x*y)+20*z+((10*pi-3)/3)\ \=\ 0;\r\n
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+comment2.params=x\ y\ z
+comment2.target=double\ f1(double,\ double,\ double)
+comment3.params=x\ y\ z
+comment3.target=double\ f2(double,\ double,\ double)
+comment4.params=x\ y\ z
+comment4.target=double\ f3(double,\ double,\ double)
+comment5.params=
+comment5.target=void\ resolverSistemaEcuaciones()
+numComments=6
