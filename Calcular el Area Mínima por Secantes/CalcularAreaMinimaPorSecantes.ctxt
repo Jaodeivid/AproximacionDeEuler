@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=CalcularAreaMinimaPorSecantes
+comment0.text=\r\n\ DESCRIPCION\ DEL\ PROBLEMA\:\r\n\ HALLAR\ LA\ MINIMA\ \u00C1REA\ ENCERRADA\ POR\ LOS\ EJES\ COORDENADOS\ DEL\ 1ER\ CUADRANTE\ Y\ UNA\ TANGENTE\ A\ LA\ CURVA\:\r\n\ Y\ \=\ 4+3X-X^2\ \r\n
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+comment2.params=
+comment2.target=void\ calcularAreaMinima()
+comment3.params=x
+comment3.target=double\ evaluarFuncion(double)
+numComments=4
