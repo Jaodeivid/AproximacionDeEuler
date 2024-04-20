@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=CalculadorAreaMaximaTrapecio
+comment0.text=\r\n\ Tenemos\ una\ longitud\ de\ un\ (1)\ metro\ para\ conformar\ un\ trapecio\:\ Tales\ que\:\ y+\ x/2\ +\ x/2\ +\ y\ \=\ 1\ m.\ \r\n\ La\ suma\ de\ los\ lados\ del\ trapecio\ y\ un\ \u00E1ngulo\ entre\ las\ paredes\ laterales\ y\ la\ horizontal.\r\n
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+comment2.params=
+comment2.target=void\ calcularAreaMaximaTrapecio()
+comment3.params=x\ y\ angulo
+comment3.target=double\ calcularAreaTrapecio(double,\ double,\ double)
+numComments=4
