@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=AproximacionDeEuler
+comment0.text=\r\n\ Usar\ la\ aproximacion\ de\ euler\ con\ xo\ \=\ 0,\ yo\ \=\ 1,\ xm\ \=\ 1,\ h\ \=\ 0.001\ y\ la\ funci\u00F3n\:\ dy/dx\ \=\ -x.\r\n
+comment1.params=xo\ yo\ xm\ h
+comment1.target=AproximacionDeEuler(double,\ double,\ double,\ double)
+comment2.params=
+comment2.target=void\ calcular()
+comment3.params=args
+comment3.target=void\ main(java.lang.String[])
+numComments=4
